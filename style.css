@@ -16,9 +16,10 @@ body {
 }
 
 .text {
-  margin-left: 200px;
-  margin-top: -400px;
   font-size: larger;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 4px;
 }
 
 .kontakt {
